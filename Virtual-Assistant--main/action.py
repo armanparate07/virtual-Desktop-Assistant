@@ -38,8 +38,8 @@ def Action(send) :
           return str(Time) 
 
     elif "shutdown" in data_btn or "quit" in data_btn:
-            speak.speak("ok lawde")
-            return "ok lawde"  
+            speak.speak("ok sir")
+            return "ok sir"  
 
     elif "play music" in data_btn or "song" in data_btn:
         webbrowser.open("https://gaana.com/")   
