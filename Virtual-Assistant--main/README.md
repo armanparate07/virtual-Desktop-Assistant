@@ -2,7 +2,7 @@
 
 A smart, voice-enabled **Virtual Desktop Assistant** built with Python to help you manage everyday desktop tasks efficiently through natural voice and text interaction — wrapped in a beautiful and modern UI.
 
-![UI Screenshot]([screenshot.png](https://ibb.co/7NkgV5n5))
+![UI Screenshot](https://i.ibb.co/7NkgV5n5/image.png)
 
 ✨ Features
 
