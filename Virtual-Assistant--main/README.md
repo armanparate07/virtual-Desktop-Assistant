@@ -42,7 +42,7 @@ Virtual-Assistant/
 🚀 Getting Started
 
 1. Clone the Repository
-git clone https://github.com/your-username/Virtual-Assistant.git
+git clone https://github.com/armanparate07/Virtual-Assistant.git
 cd Virtual-Assistant
 
 2. Install Requirements
